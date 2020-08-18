@@ -1,5 +1,5 @@
 # spamwaruparupa
-Jangan di recode ngentod:V
+Thanks AsecX sudah membantu ^v^
 
 CARA PENGGUNAAN:\
 $ pkg update\
