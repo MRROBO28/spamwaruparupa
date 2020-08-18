@@ -1,5 +1,5 @@
 # spamwaruparupa
-Thanks AsecX sudah membantu ^v^
+Thanks AsecX sudah membantu pembuatan sc ^v^
 
 CARA PENGGUNAAN:\
 $ pkg update\
